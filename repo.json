@@ -29,8 +29,8 @@
                   "Version": "1.0",
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/CCiPod.misaka",
                   "Description": "initial release"
-              },
-	      {
+        },
+	 {
           "Name": "CameraTXT",
           "Description": "Customize your Camera App!",
           "MinIOSVersion":"16.0",
