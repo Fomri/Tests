@@ -65,6 +65,33 @@
           ],
           "PackageID": "com.fomri.CC"
       },
+	  {
+          "Name": "LegalSportCenter",
+          "Description": "Sport game center on Settings!.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/CCicon.png",
+          "Category": "CC Stuff",
+          "Caption": "Fomri's Control Center color layout! (looks AMAZING with CCiPod).",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/CCpreview.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/FomriCC.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.CC"
+      },
 	{
           "Name": "Whitelist",
           "Description": "No more unable to verify app!",
@@ -106,18 +133,19 @@
                   }
               ]
           },
-          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PAC.png",
-          "Category": "Tweaks",
-          "Caption": "Get Pac-Man on your Settings app! Path on settings: /General/Legal/Legal, credit to SeanMC about the idea.",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PACM.png"],
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/SC.png",
+          "Category": "Settings Customize",
+          "Caption": "Sport Center on settings: path: General/Legal/(Legal again for Ping Pong) (License for Soccer Penalty)",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png"],
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LegalPacMan.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LegalSportCenter.misaka",
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.fomri.LegalPacMan"
+          "PackageID": "com.fomri.SC"
       },
 
 		 {
