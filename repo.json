@@ -136,8 +136,7 @@
           "Icon": "https://github.com/Fomri/fomrirepo/raw/main/SC.png",
           "Category": "Settings Customize",
           "Caption": "Sport Center on settings: path: General/Legal/(Legal again for Ping Pong) (License for Soccer Penalty)",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png"],
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png", "https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
           "Releases": [
               {
                   "Version": "1.0",
