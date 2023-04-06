@@ -126,11 +126,11 @@
           "MinIOSVersion":"15.0",
           "MaxIOSVersion":"15.7.2",
           "Author": {
-              "Label": "Fomri",
+              "Label": "nxby",
               "Links": [
                   {
-                      "Label": "Fomri",
-                      "Link": "https://twitter.com/Fomri_"
+                      "Label": "nxby",
+                      "Link": "https://twitter.com/chromiumcandy"
                   }
               ]
           },
