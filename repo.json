@@ -119,8 +119,36 @@
           ],
           "PackageID": "com.fomri.LegalPacMan"
       },
+
 		 {
-          "Name": "CameraTXT",
+          "Name": "CameraTXT15",
+          "Description": "Customize your Camera App!",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"15.7.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://twitter.com/Fomri_"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/IMG_5507.png",
+          "Category": "App customizer",
+          "Caption": "Customize anything in the Camera app! SUPPORT iPhone ONLY, iPad version coming soon.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/IMG_5504.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT15.misaka",
+                  "Description": "initial release"
+              } 
+          ],
+          "PackageID": "com.fomri.CameraTXT15"
+       },
+		 {
+          "Name": "CameraTXT16",
           "Description": "Customize your Camera App!",
           "MinIOSVersion":"16.0",
           "MaxIOSVersion":"16.1.2",
@@ -140,7 +168,35 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT16.misaka",
+                  "Description": "initial release"
+              } 
+          ],
+          "PackageID": "com.fomri.CameraTXT16"
+       },
+
+		 {
+          "Name": "CameraTXT16",
+          "Description": "Customize your Camera App!",
+          "MinIOSVersion":"16.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://twitter.com/Fomri_"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/IMG_5507.png",
+          "Category": "App customizer",
+          "Caption": "Customize anything in the Camera app! SUPPORT iPhone ONLY! Dont use it on iPad or iPod touch, iPad version coming soon.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/IMG_5504.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT16.misaka",
                   "Description": "initial release"
               } 
           ],
