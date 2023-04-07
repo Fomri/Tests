@@ -67,7 +67,7 @@
       },
 	  {
           "Name": "LegalSportCenter",
-          "Description": "Sport game center on Settings!.",
+          "Description": "Sport game center on your Settings!.",
           "MinIOSVersion":"15.0",
           "MaxIOSVersion":"16.1.2",
           "Author": {
@@ -79,18 +79,45 @@
                   }
               ]
           },
-          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/CCicon.png",
-          "Category": "CC Stuff",
-          "Caption": "Fomri's Control Center color layout! (looks AMAZING with CCiPod).",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/CCpreview.png"],
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/SC.png",
+          "Category": "Settings Customize",
+          "Caption": "Sport Center on settings: path: General/Legal/(Legal again for Tap Tap Dunk) (License for Soccer Penalty",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png", "https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/FomriCC.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/SC.misaka",
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.fomri.CC"
+          "PackageID": "com.fomri.SC"
+      },
+	 {
+          "Name": "LegalPingPong",
+          "Description": "Play Ping Pong on your Settings!.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PP.png",
+          "Category": "Settings Customize",
+          "Caption": "Play Ping Pong on your Settings! Path in Settings: /General/Legal/Legal.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PPM.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LPP.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.PingPong"
       },
 	{
           "Name": "Whitelist",
@@ -133,18 +160,18 @@
                   }
               ]
           },
-          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/SC.png",
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PAC.png",
           "Category": "Settings Customize",
-          "Caption": "Sport Center on settings: path: General/Legal/(Legal again for Ping Pong) (License for Soccer Penalty)",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png", "https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
+          "Caption": "Play Pac-Man on your Settings! Path on settings: General/Legal/Legal)",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PACM.png"],
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LegalSportCenter.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LegalPacMan.misaka",
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.fomri.SC"
+          "PackageID": "com.fomri.PacMan"
       },
 
 		 {
