@@ -86,7 +86,7 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/SlingCheat.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/SlingCheat.misaka",
                   "Description": "initial release"
               }
           ],
